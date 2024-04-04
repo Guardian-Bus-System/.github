@@ -10,5 +10,4 @@
   -  경소고 학생들이 편하게 사용할 수 있는 귀가버스 신청&관리 사이트
 
 #### 링크
-<a href="링크"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
-<a href="https://famous-receipt-540.notion.site/4d6febf9e73a4459b8aff375d590af54?pvs=4">[바로가기]</a>
+<a href="https://famous-receipt-540.notion.site/4d6febf9e73a4459b8aff375d590af54?pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
